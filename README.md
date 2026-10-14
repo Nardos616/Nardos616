@@ -17,19 +17,19 @@
 
 ---
 
-## 🌌 About Me
+## 😎 About Me
 
 Hey! I'm **Nardos Solomon**, a full-stack web developer and third-year Software Engineering student at **Wollo University**.
 
 I enjoy learning how technology works, exploring new tools, and turning ideas into practical digital experiences. I'm continually improving my skills through practice, experimentation, and building projects.
 
-- 🎓 **Currently:** Third-year Software Engineering student at Wollo University
-- 💻 **Interested in:** Full-stack development and useful web applications
-- 🌱 **Mindset:** Learn consistently, build thoughtfully, improve every day
+- 🙌 **Currently:** Third-year Software Engineering student at Wollo University
+- 👽 **Interested in:** Full-stack development and useful web applications
+- 👍 **Mindset:** Learn consistently, build thoughtfully, improve every day
 - 🤝 **Open to:** Learning with other developers and contributing to meaningful projects
-- 📍 **Based in:** Ethiopia
+- 🙌 **Based in:** Ethiopia
 
-## 🧰 Tech Stack & Tools
+## 🤷‍♀️ Tech Stack & Tools
 
 > These badges represent technologies I work with or am learning; I'll keep this section updated as my experience grows.
 
@@ -58,21 +58,21 @@ I enjoy learning how technology works, exploring new tools, and turning ideas in
 
 <div align="center">
 
-| 🌱 Learn | 🛠️ Build | 🔍 Improve |
+| 👌 Learn | 🛠️ Build | 🔍 Improve |
 |:---:|:---:|:---:|
 | Stay curious | Turn ideas into projects | Learn from feedback |
 
 </div>
 
-> ✨ “Small steps every day lead to big results.”
+> ❤️ “Small steps every day lead to big results.”
 
-## 📬 Find Me on GitHub
+## Find Me on GitHub
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/Visit%20my%20GitHub-Nardos616-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nardos616)
 
-**More projects and portfolio details coming soon.** 🚀
+**More projects and portfolio details coming soon.** 
 
 *Code • Learn • Grow • Create*
 
